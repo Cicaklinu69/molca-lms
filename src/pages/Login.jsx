@@ -54,7 +54,7 @@ const Login = () => {
 
             <div className="max-w-lg">
                 <h1 className="text-5xl font-extrabold mb-6 leading-tight">
-                    Digital Twin <br/>
+                    Molca <br/>
                     <span className="text-[#D1F349]">LMS Platform.</span>
                 </h1>
                 <p className="text-gray-400 text-lg leading-relaxed border-l-4 border-[#D1F349] pl-6">
