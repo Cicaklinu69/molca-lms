@@ -121,7 +121,7 @@ const Dashboard = () => {
                         Halo, {userName}! 👋
                     </h1>
                     <p className="text-lg text-gray-400 max-w-2xl">
-                        Akses modul pelatihan digital twin dan materi eksklusif Molca di sini.
+                        Akses modul pelatihan digital dan materi eksklusif Molca di sini.
                     </p>
                 </div>
 
